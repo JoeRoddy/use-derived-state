@@ -8,6 +8,7 @@
   },
   "author": "mrjoeroddy@gmail.com",
   "license": "ISC",
+  "private": false,
   "devDependencies": {
     "@types/react": "^18.2.6",
     "react": "^18.2.0",
